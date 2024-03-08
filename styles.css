@@ -1,0 +1,29 @@
+body{
+    background-color: red
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif
+}
+
+main .section-1{
+    display: flex
+}
+
+main .section-1 .text-container{
+    
+}
+
+main .section-1 .text-container h1{
+    width: 200px;
+    color: #62345f;
+    font-size: 2rem;
+    font-weight: 900;
+    text-align: left
+}
+
+main .section-1 .text-container p{
+    
+}
